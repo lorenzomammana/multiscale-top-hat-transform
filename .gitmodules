@@ -1,0 +1,3 @@
+[submodule "morph_cupy"]
+	path = morph_cupy
+	url = https://github.com/lorenzomammana/morphological-operators-cupy

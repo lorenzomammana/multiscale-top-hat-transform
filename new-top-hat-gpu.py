@@ -1,8 +1,7 @@
-from morphology_cupy import *
 from skimage import io
 import matplotlib.pyplot as plt
-import cupy as cp
 from timeit import default_timer as timer
+from morph_cupy.morphology_cupy import *
 
 
 def square_closing(img, db, bb):
